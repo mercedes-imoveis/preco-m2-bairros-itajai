@@ -1,0 +1,10 @@
+escopo,bairro,slug,amostra_anuncios,mediana_preco_m2_brl,minimo_preco_m2_brl,maximo_preco_m2_brl,mapeado_area_alagavel,data_base_snapshot
+cidade,Itajaí,,138,13153,,,,2026-08-10
+bairro,Centro,centro,27,11951,5809,17910,false,2026-08-10
+bairro,Cordeiros,cordeiros,6,9450,5853,12283,true,2026-08-10
+bairro,Fazenda,fazenda,33,16315,9359,29458,true,2026-08-10
+bairro,Praia Brava,praia-brava,30,22507,14000,58860,false,2026-08-10
+bairro,Ressacada,ressacada,6,10986,8214,14925,false,2026-08-10
+bairro,São João,sao-joao,7,8198,6048,18471,false,2026-08-10
+bairro,São Vicente,sao-vicente,6,9433,9013,10588,true,2026-08-10
+bairro,Vila Operária,vila-operaria,6,9874,6978,13500,false,2026-08-10
